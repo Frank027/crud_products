@@ -1,0 +1,18 @@
+{
+  "name": "crud_products",
+  "version": "1.0.0",
+  "description": "Sistema que para administrar productos pertenecientes a los apicultores del Municipio de San Pedro Mixtepec.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WebDeveloper",
+    "Nodejs",
+    "JavaScript",
+    "Back-End",
+    "Fron-tEnd"
+  ],
+  "author": "Francisco Samuel",
+  "license": "MIT"
+}
