@@ -1,5 +1,5 @@
 # CRUD_PRODUCTOS
-Sistema para la administración de un inventario de productos. Permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) de manera eficiente, gestionando el inventario de manera integral y facilitando el seguimiento y control de los productos disponibles.
+El proyecto realiza las principales operaciones CRUD (Crear, Leer, Actualizar y Eliminar) para productos. Además, cuenta con un sistema de sesión implementado utilizando Jasonwebtoken para la autenticación de usuarios.
 ## Tabla de Contenidos
 
 - [Descripción](#descripción)
@@ -10,8 +10,7 @@ Sistema para la administración de un inventario de productos. Permite realizar 
 - [Licencia](#licencia)
 
 ## Descripción
-
-El proyecto realiza las principales operaciones CRUD (Crear, Leer, Actualizar y Eliminar) para productos. Además, cuenta con un sistema de sesión implementado utilizando Jasonwebtoken para la autenticación de usuarios.
+Sistema para la administración de un inventario de productos. Permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) de manera eficiente, gestionando el inventario de manera integral y facilitando el seguimiento y control de los productos disponibles.
 
 ## Tecnologías Utilizadas
 [![](https://skillicons.dev/icons?i=nodejs,express,mysql,pug,html,css,js)](https://skillicons.dev)
